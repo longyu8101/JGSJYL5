@@ -1,0 +1,34 @@
+
+0.1　各种工程结构的特点及使用范围
+------------------------------------
+
+.. raw:: html
+
+
+ <h3 id="test111">0.1　各种工程结构的特点及使用范围</h3>
+
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.6"> [A0-0.6]</a><span id="idA0-0.6"> 各种工程结构采用的建筑材料的性质不同，形成了不同的特点，从而决定了它们在实际工程中的使用范围。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#id0.1.1">1) 钢筋混凝土结构</a><spanid="id0.1.1"> </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.7"> [A0-0.7]</a><span id="idA0-0.7"> 钢筋混凝土结构是由钢筋和混凝土两种材料组成的。钢筋是一种抗拉性能很好的材料，混凝土材料具有较高的抗压强度，而抗拉强度很低。根据构件的受力情况，合理地配置受力钢筋可形成承载能力较强、刚度较大的结构构件。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.8"> [A0-0.8]</a><span id="idA0-0.8"> 钢筋混凝土结构所用的混凝土材料中占比例较大的是砂、石材料，便于就地取材;混凝土可模性较好，结构造型灵活，可以根据需要浇筑成各种形状的构件。同时，钢筋混凝土合理地利用了钢筋和混凝土这两种材料的受力性能特点，形成的结构整体性、耐久性较好，因而，钢筋混凝土结构广泛用于房屋建筑、地下结构、桥梁、隧道、水利、港口等工程中。但是，钢筋混凝土结构也有自重较大、抗裂性较差、修补困难的缺点。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.9"> [A0-0.9]</a><span id="idA0-0.9"> 在公路与城市道路工程、桥梁工程中，钢筋混凝土结构主要用于中小跨径桥梁、涵洞、挡土墙以及形状复杂的中、小型构件等。</span></p>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#id0.1.2">2) 预应力混凝土结构</a><spanid="id0.1.2"></span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.10"> [A0-0.10]</a><span id="idA0-0.10"> 预应力混凝土结构是为解决钢筋混凝土结构在使用阶段容易开裂问题而发展起来的结构。它采用的是高强度钢筋和高强度混凝土材料，并采用相应钢筋张拉施工工艺在结构构件中建立预加应力。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.11"> [A0-0.11]</a><span id="idA0-0.11"> 由于预应力混凝土结构采用了高强度材料和预应力工艺，节省了材料，减小了构件截面尺寸，减轻了构件自重，因而预应力混凝土构件比钢筋混凝土构件轻巧，特别适合于建造由恒荷载控制设计的大跨径桥梁。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.12"> [A0-0.12]</a><span id="idA0-0.12"> 若预应力混凝土结构构件控制截面在使用阶段不出现拉应力，则在腐蚀性环境下可保护钢筋免受侵蚀，因此可用于海洋工程结构和有防渗透要求的结构。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.13"> [A0-0.13]</a><span id="idA0-0.13"> 预应力技术可作为装配混凝土构件的一种可靠手段，能很好地将部件装配成整体结构，形成悬臂浇筑和悬臂拼装等不采用支架、不影响桥下通航的施工方法，在大跨径桥梁施工中获得广泛应用。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.14"> [A0-0.14]</a><span id="idA0-0.14"> 必须指出，尽管预应力混凝土结构具有上述优点，但也不能在所有的情况下都采用。由于高强度材料的单价高，施工的工序多，要求有经验的、熟练的技术人员和技术工人施工，且要求较多的、严格的现场技术监督和检查，因此，不是在任何场合都可以用预应力混凝土来代替普通钢筋混凝土，而是两者各有其合理的应用范围。</span></p>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#id0.1.3">3) 圬工结构</a><spanid="id0.1.3"></span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.15"> [A0-0.15]</a><span id="idA0-0.15"> 圬工结构是人类社会使用最早的结构。它是用胶结材料将砖、天然石料等块材按一定规则砌筑成整体的结构，其特点是材料易于取材。块材采用天然石料的圬工结构，将具有良好的耐久性。但是，圬工结构的自重一般较大，施工中机械化程度较低。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.16"> [A0-0.16]</a><span id="idA0-0.16"> 在公路与城市道路工程和桥梁工程中，圬工结构多用于中小跨径的拱桥、桥墩(台)、挡土墙、涵洞、道路护坡等工程中。</p>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#id0.1.4">4) 钢结构</a><spanid="id0.1.4"> </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.17"> [A0-0.17]</a><span id="idA0-0.17"> 钢结构一般是由钢厂轧制的型钢或钢板通过焊接或栓接等连接组成的结构。钢结构由于钢材的强度很高，构件所需的截面面积很小，故钢结构与其他结构相比，尽管其重度很大，却是自重较轻的结构。钢材的组织均匀，最接近于各向同性体;弹性模量高，是理想的弹塑性材料，故钢结构工作的可靠性高。钢结构的基本构件可以在工厂中加工制作，机械化程度高，同时已预制的构件可以在施工现场较快地装配连接，故施工效率较高。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.18"> [A0-0.18]</a><span id="idA0-0.18"> 钢结构的应用范围很广，例如，大跨径的钢桥、城市人行天桥、高层建筑、钢闸门、海洋钻井采油平台、钢屋架等;同时，钢结构还常用于钢支架、钢模板、钢围堰、钢挂篮等临时结构中。</p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.19"> [A0-0.19]</a><span id="idA0-0.19"> 此外，随着科学研究和生产的发展，在工程中还出现了多种组合结构，例如，预应力混凝土组合梁、钢-混凝土组合梁和钢管混凝土结构等。组合结构是利用具有各自材料特点的部件，通过可靠的措施使之形成整体受力的构件，从而获得更好的工程效果，因而日益得到广泛应用。一些工程结构技术的相互渗透，也产生了新的结构构件，例如，将预应力技术引入钢结构，产生了预应力钢结构，在大跨度钢屋架上获得成功应用。同时，有些工程结构也在不断深入发展，例如，预应力混凝土结构已由最初的全预应力混凝土，发展出现了部分预应力混凝土结构及无粘结预应力混凝土结构、体外预应力混凝土结构等。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.20"> [A0-0.20]</a><span id="idA0-0.20"> 工程结构的科学研究及其在工程中的应用已经发展成为一门完整的学科—结构工程学科。它以现代力学、数学和材料科学为基础，包括了工程结构基本理论、工程结构设计与施工技术，以及工程结构维护修理等内容。结构工程学科是土木工程中较活跃的学科之一，同时，它在基础设施建设中占有重要的地位，因而，要成为从事公路与城市道路工程和桥梁与隧道工程的专门技术人员，一定要学好“结构设计原理”课程，并在工程实践中应用和发展。</span></p>
+
+ 

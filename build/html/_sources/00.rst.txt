@@ -1,0 +1,36 @@
+总论
+==========================================================
+
+.. raw:: html
+   
+ <h2 id="test111">总论</h2>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.1"> [A0-0.1]</a><span id="idA0-0.1"> 《结构设计原理》主要讨论土木基础设施工程中各种工程结构的基本构件受力性能、计算 方法和构造设计原理，它是学习和掌握桥梁工程和其他道路人工构造物设计的基础。桥梁、涵洞、隧道、挡土墙等都是土木基础设施工程中的构造物，作为单项工程实体，必须由它的承重骨架来承受各种外荷载的作用。一般把构造物的承重骨架组成部分统称为结构。例如，桥的桥跨、墩(台) 及基础组成了桥的承重体系，它们就被称为结构。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.2"> [A0-0.2]</a><span id="idA0-0.2"> 构造物的结构都是由若干基本构件连接而成的。这些构件的形式虽然多种多样，但按其 主要受力特点可分为受弯构件(梁和板)、受压构件、受拉构件和受扭构件等典型的基本构件。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.3"> [A0-0.3]</a><span id="idA0-0.3"> 在实际工程中，结构及基本构件都是由建筑材料制作成的。根据所使用的建筑材料种类，作为总称，常用的结构一般可分为 ：</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.4"> [A0-0.4]</a><span id="idA0-0.4"> (1) 混凝土结构。以混凝土为主制作的结构，包括素混凝土结构、钢筋混凝土结构和预应 力混凝土结构等 。无筋或不配置受力钢筋的结构为素混凝土结构 ，钢筋混凝土结构和预应力 混凝土结构统称为配筋混凝土结构。<br>(2) 钢结构 。以钢材为主制作的结构。<br>(3) 圬工结构 。 以圬工砌体为主制作的结构 ， 是砖结构、石结构和混凝土砌体结构的 总称。<br>(4) 木结构 。以木材为主制作的结构。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA0-0.5"> [A0-0.5]</a><span id="idA0-0.5"> 本书将介绍钢筋混凝土结构、预应力混凝土结构、圬工结构和钢结构等的材料物理力学性 能及基本构件受力性能、设计计算方法和构造。</span></p>
+  
+.. toctree::
+    :caption:  总论
+    :maxdepth: 2
+    :hidden:
+
+    0/0.1
+    0/0.2
+
+
+.. raw:: html
+
+    <style>
+        #abc{
+            height:200px;
+            background-color: #f0ffff;
+        }
+    </style>
+ <body>
+    <div id="abc"></div>
+ </body>
+  
+
+ 

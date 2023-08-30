@@ -1,0 +1,33 @@
+
+1.3 钢筋
+---------------------------------
+
+.. raw:: html
+
+ <h3 id="test111"> 1.3 钢筋</h3>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.13"> [A1-1.13]</a><span id="idA1-1.13"> 配筋混凝土结构中采用的钢筋有由低碳钢、低合金钢热轧所制成的普通钢筋和由高碳钢制成的预应力钢筋(例如高强度碳素钢丝、钢绞线等)。<br>钢筋混凝土结构采用的普通钢筋为热轧钢筋，本节介绍热轧钢筋的种类、牌号及其物理力学性能。预应力钢筋的种类及其物理力学性能将在第12章中介绍。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.1">1.3.1 </a><span id="id1.3.1"> 1.3.1热轧钢筋的种类 </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.14"> [A1-1.14]</a><span id="idA1-1.14"> 热轧钢筋按照外形分为光圆钢筋和带肋钢筋(图1-19)。热轧光圆钢筋是经热轧成型并自然冷却的表面光滑、截面为圆形的钢筋。热轧带肋钢筋是经热轧成型并自然冷却而其圆周表面通常带有两条纵肋且沿长度方向有均匀分布横肋的钢筋，其中，横肋斜向一个方向而呈螺纹形的，称为螺纹钢筋[图1-19b)];横肋斜向不同方向而呈“人”字形的，称为人字形钢筋[图1-19c)];纵肋与横肋不相交且横肋为月牙形状的，称为月牙肋钢筋[图1-19d)]。</span></p>
+ <p style="text-align:justify;font-family:times new roman"> 我国目前生产的热轧带肋钢筋大多为月牙肋钢筋，其横肋高度向肋的两端逐渐降至零，呈月牙形，这样可使横肋相交处的应力集中现象有所缓解。</p>
+ <p style="text-align:justify;font-family:times new roman"> 由于热轧带肋钢筋截面包括纵肋和横肋，外周不是一个光滑连续的圆周，因此，热轧带肋钢筋直径采用公称直径。公称直径是与钢筋的公称横截面面积相等的圆的直径，即以公称直径所得的圆面积就是钢筋的截面面积。对于热轧光圆钢筋截面，其直径就是公称直径。在本书中，凡未加特别说明的“钢筋直径”均指钢筋公称直径。</p>
+ <p style="text-align:justify;font-family:times new roman"> 我国国家标准推荐的热轧光圆钢筋公称直径为6 mm、8 mm、10 mm、12 mm、16 mm和20 mm，热轧带肋钢筋公称直径为6 mm、8 mm、10 mm、12 mm、16 mm、20 mm、25 mm、32 mm、40 mm和50 mm。</p>
+ 
+  <body>
+
+  <style type="text/css">
+      #image1.19{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.19" src="../_static/fig/1-19.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-19  热轧钢筋的外形</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.19'));</script>
+
+  </body>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.2">1.3.2 </a><span id="id1.3.2"> 1.3.2热轧钢筋的强度等级和牌号 </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.15"> [A1-1.15]</a><span id="idA1-1.15"> 钢筋的牌号是根据钢筋屈服强度特征值、制造成型方式及种类等规定加以分类的代号。热轧钢筋的牌号由规定的英文字母缩写和钢筋屈服强度特征值组成。</span></p>
+ <p style="text-align:justify;font-family:times new roman"> 对钢筋混凝土结构用热轧钢筋，我国国家标准规定产品的牌号及力学性能特征值见表1-1。</p>
