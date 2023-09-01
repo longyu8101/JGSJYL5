@@ -68,8 +68,427 @@
   <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.5'));</script>
 
   </body>
- <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.11"> [A1-1.11]</a><span id="idA1-1.11"> 在用上述方法测定混凝土的轴心抗拉强度时，保持试件轴心受拉是很重要的，也是不容易完全做到的。因为混凝土内部结构不均匀，钢筋的预埋和试件的安装都难以对中，而偏心又对混凝土抗拉强度测试有很大的干扰，因此，目前国内外常采用立方体或圆柱体的劈裂试验来测定混凝土的轴心抗拉强度。</span></p>
- <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.12"> [A1-1.12]</a><span id="idA1-1.12"> 劈裂试验是在卧置的立方体(或圆柱体)试件与压力机压板之间放置钢垫条及三合板(或纤维板)垫层(<a href="#image1.6">图1-6</a>)，压力机通过垫条对试件中心面施加均匀的条形分布荷载。这样，除垫条附近外，在试件中间垂直面上就产生了拉应力，它的方向与加载方向垂直，并且基本上是均匀的。当拉应力达到混凝土的抗拉强度时，试件即被劈裂成两半。我国交通运输部颁布的行业标准《公路工程水泥及水泥混凝土试验规程》(JTG3420—2020)规定，采用150 mm立方体试件作为标准试件进行混凝土劈裂抗拉强度测定，按照规定的试验方法操作，则混凝土立方体劈裂抗拉强度<i>f</i><sub>ts</sub>按式(1-1)计算</span></p>
+
+ <p style="text-align:justify;font-family:times new roman">  在用上述方法测定混凝土的轴心抗拉强度时，保持试件轴心受拉是很重要的，也是不容易完全做到的。因为混凝土内部结构不均匀，钢筋的预埋和试件的安装都难以对中，而偏心又对混凝土抗拉强度测试有很大的干扰，因此，目前国内外常采用立方体或圆柱体的劈裂试验来测定混凝土的轴心抗拉强度。</p>
+ <p style="text-align:justify;font-family:times new roman">  劈裂试验是在卧置的立方体(或圆柱体)试件与压力机压板之间放置钢垫条及三合板(或纤维板)垫层(<a href="#image1.6">图1-6</a>)，压力机通过垫条对试件中心面施加均匀的条形分布荷载。这样，除垫条附近外，在试件中间垂直面上就产生了拉应力，它的方向与加载方向垂直，并且基本上是均匀的。当拉应力达到混凝土的抗拉强度时，试件即被劈裂成两半。我国交通运输部颁布的行业标准《公路工程水泥及水泥混凝土试验规程》(JTG3420—2020)规定，采用150 mm立方体试件作为标准试件进行混凝土劈裂抗拉强度测定，按照规定的试验方法操作，则混凝土立方体劈裂抗拉强度<i>f</i><sub>ts</sub>按式(1-1)计算</p>
+
+$$f_{\\mathrm{ts}}=\\dfrac{2F}{\\pi A}=0.637\\dfrac{F}{A}\\tag{1-1}$$
+
+.. raw:: html
+
+ <style>
+      #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th， td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         vertical-align: middle;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="70px" align='right'  id="eqzs" >式中：</td>
+ <td width="70px" align='right'  id="eqzs" ><i>f</i><sub>ts</sub></td>
+ <td width="50px" align='left'   id="eqzs">——</td>
+ <td width="750px" align='left'  id="eqzs">混凝土立方体劈裂抗拉强度(N/mm<sup>2</sup>); </td>
+ </tr>
+ <tr>
+ <td  align='left' id="eqzs"> </td>
+ <td  align='right'  id="eqzs" ><i>F</i></td>
+ <td  align='left' id="eqzs">——</td>
+ <td  align='left'  id="eqzs">劈裂破坏荷载(N);</td>
+ </tr>
+  <tr>
+ <td  align='left' id="eqzs"> </td>
+ <td  align='right'  id="eqzs" ><i>A</i></td>
+ <td  align='left' id="eqzs">——</td>
+ <td  align='left'  id="eqzs">试件劈裂面面积(mm<sup>2</sup>)。</td>
+ </tr>
+  </table>
+
+ <p style="text-align:justify;font-family:times new roman"> 采用上述试验方法测得的混凝土立方体劈裂抗拉强度值换算成轴心抗拉强度时，可乘以换算系数0.9，即f<sub>t</sub>=0.9f<sub>ts</sub>。</p> 
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.11"> [A1-1.11]</a><span id="idA1-1.11"> 4)复合应力状态下的混凝土强度</span></p>
+
+ <p style="text-align:justify;font-family:times new roman"> 在钢筋混凝土结构中，构件通常受到轴力、弯矩、剪力及扭矩等不同形式外力的组合作用，因此，更多情况下，混凝土处于双向或三向受力状态。在复合应力状态下，混凝土的强度有明显变化。</p>
+
+  <body>
+
+  <style type="text/css">
+      #image1.6{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.6" src="../_static/fig/1-6.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-6  劈裂试验</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.6'));</script>
+
+  </body>
 
 
-  
+ <p style="text-align:justify;font-family:times new roman"> 对于双向正应力状态，例如，在两个互相垂直的平面上，作用着法向应力<i>σ</i><sub>1</sub>和<i>σ</i><sub>2</sub>，第三个平面上的法向应力为零。双向正应力状态下混凝土强度的变化曲线如<a href="#image1.7">图1-7</a>所示，其强度变化特点如下:</p>
+ <p style="text-align:justify;font-family:times new roman"> (1)当双向受压时(<a href="#image1.7">图1-7</a>中第三象限)，一向的混凝土强度随着另一向压应力的增加而增加，当<i>σ</i><sub>1</sub>/σ<sub>2</sub>约等于2或0.5时，其强度比单向抗压强度<i>f</i><sub>c</sub>增加约25%，而在<i>σ</i><sub>1</sub>/σ<sub>2</sub>=1时，其强度增加仅为16%左右。<br>(2)当双向受拉时(<a href="#image1.7">图1-7</a>中第一象限)，无论应力比值<i>σ</i><sub>1</sub>/σ<sub>2</sub>如何，实测破坏强度基本不变，双向受拉的混凝土抗拉强度均接近于单向抗拉强度。<br>(3)当一向受拉、一向受压时(<a href="#image1.7">图1-7</a>中第二、第四象限)，混凝土的强度均低于单向受力(压或拉)的强度。</p>
+
+ <body>
+
+  <style type="text/css">
+      #image1.7{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.7" src="../_static/fig/1-7.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-7  双向正应力状态下混凝土强度变化曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.7'));</script>
+
+  </body>
+
+
+ <p style="text-align:justify;font-family:times new roman"> <a href="#image1.8">图1-8</a>所示为法向应力(拉或压)与剪应力形成压剪或拉剪复合应力状态下的混凝土强度曲线。<a href="#image1.8">图1-8</a>中的曲线表明，混凝土的抗压强度由于剪应力的存在而降低；当<i>σ</i>/<i>f</i><sub>c</sub><(0.5~0.7)时，抗剪强度随压应力的增大而增大；当<i>σ</i>/<i>f</i><sub>c</sub> >(0.5~0.7)时，抗剪强度随压应力的增大而减小。</p>
+ <p style="text-align:justify;font-family:times new roman"> 当混凝土圆柱体三向受压时，混凝土的轴心抗压强度随另外两向压应力增加而增加(<a href="#image1.9">图1-9</a>)。混凝土圆柱体三向受压的轴心抗压强度<i>f</i><sub>cc</sub>与侧压应力<i>σ</i><sub>2</sub>之间的关系可以用试验给出的线性经验公式表达</p>
+
+$$f_{\\mathrm{cc}}=f_{\\mathrm{c}}^{''}+k^{'}\\sigma_{2}\\tag{1-2}$$
+
+.. raw:: html
+
+ <style>
+      #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th， td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         vertical-align: middle;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="70px" align='right'  id="eqzs" >式中：</td>
+ <td width="70px" align='right'  id="eqzs" ><i>f</i><sub>cc</sub></td>
+ <td width="50px" align='left'   id="eqzs">——</td>
+ <td width="750px" align='left'  id="eqzs">三向受压时圆柱体的混凝土轴心抗压强度;</td>
+ </tr>
+ <tr>
+ <td  align='left' id="eqzs"> </td>
+ <td  align='right'  id="eqzs" ><i>f</i><sub>c</sub><sup>'</sup></td>
+ <td  align='left' id="eqzs">——</td>
+ <td  align='left'  id="eqzs">混凝土圆柱体抗压强度<sup>❶</sup>，计算时可近似以混凝土轴心抗压强度<i>f</i><sub>c</sub>代替</td>
+ </tr>
+  <tr>
+ <td  align='left' id="eqzs"> </td>
+ <td  align='right'  id="eqzs" ><i>σ</i><sub>2</sub></td>
+ <td  align='left' id="eqzs">——</td>
+ <td  align='left'  id="eqzs">侧压应力值;</td>
+ </tr>
+ <tr>
+ <td  align='left' id="eqzs"> </td>
+ <td  align='right'  id="eqzs" ><i></i><sup>'</sup></td>
+ <td  align='left' id="eqzs">——</td>
+ <td  align='left'  id="eqzs">侧压效应系数，一般可取<i></i><sup>'</sup>=4.0。</td>
+ </tr>
+  </table>
+ <p> </p>
+
+
+ <body>
+
+  <style type="text/css">
+      #image1.8{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.8" src="../_static/fig/1-8.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-8  法向应力与剪应力组合时的混凝土强度曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.8'));</script>
+
+  </body>
+
+  <body>
+
+  <style type="text/css">
+      #image1.9{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.9" src="../_static/fig/1-9.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-9  三向受压状态下混凝土强度</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.9'));</script>
+
+  </body>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#id1.2.2">1.2.2 </a><span id="id1.2.2"> 混凝土的变形 </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.12"> [A1-1.12]</a><span id="idA1-1.12">  混凝土的变形可分为两类:一类是在荷载作用下的受力变形，如单调短期加载的变形、荷载长期作用下的变形，以及多次重复加载的变形；另一类与受力无关，称为体积变形，如混凝土收缩以及温度变化引起的变形。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.13"> [A1-1.13]</a><span id="idA1-1.13">  1)混凝土在一次单调加载作用下的变形性能</span></p>
+ <p style="text-align:justify;font-family:times new roman"> (1)混凝土的应力—应变曲线</p>
+ <p style="text-align:justify;font-family:times new roman"> 混凝土的应力—应变关系是混凝土力学性能的一个重要方面，它是研究钢筋混凝土构件的截面应力分布、建立承载能力和变形计算理论所必不可少的依据，特别是近代采用计算机对钢筋混凝土结构进行非线性分析时，混凝土的应力—应变关系已成为数学物理模型研究的重要依据。<br>一般是对棱柱体试件进行一次单调加载试验(指加载从零开始单调增加至试件破坏，也称单调加载)来测试混凝土的应力—应变曲线。在试验时，需使用刚度较大的试验机，或者在试验中用控制应变速率的特殊装置来等应变速率地加载，或者在普通压力机上用高强弹簧(或油压千斤顶)与试件共同受压，测得混凝土试件单轴受压时典型的应力—应变曲线，如<a href="#image1.10">图1-10</a> 所示。</p>
+ <p style="text-align:justify;font-family:times new roman"> <b>完整的混凝土轴心受压应力—应变曲线由上升段OC、下降段CD 和收敛段DE 三个阶段组成。</b></p>
+ <p style="text-align:justify;font-family:times new roman"> 上升段:当压应力<i>σ</i><sub>c</sub> <0.3<i>f</i><sub>c</sub> 时，应力—应变关系接近直线变化(OA 段)，混凝土处于弹性工作阶段。在压应力<i>σ</i><sub>c</sub>≥0.3<i>f</i><sub>c</sub> 后，随着压应力的增大，应力—应变关系越来越偏离直线，任意一点的应变<i>ε</i>可分为弹性应变<i>ε</i><sub>ce</sub>和塑性应变<i>ε</i><sub>cp</sub>两部分，原有的混凝土内部微裂缝发展，并在孔隙等薄弱处产生新的个别的微裂缝。当应力达到0.8<i>f</i><sub>c</sub>(B 点)左右后，混凝土塑性变形显著增大，内部裂缝不断延伸扩展，并有几条贯通，应力—应变曲线斜率急剧减小，如果不继续加载，裂缝也会发展，即内部裂缝处于非稳定发展阶段。当应力达到最大应力<i>σ</i><sub>c</sub>=<i>f</i><sub>c</sub>时( C 点)，应力—应变曲线的斜率已接近于水平，试件表面出现不连续的可见裂缝。</p>
+
+ <body>
+
+  <style type="text/css">
+      #image1.10{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.10" src="../_static/fig/1-10.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-10  混凝土受压时的应力—应变曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.10'));</script>
+
+  </body>
+ <p style="text-align:justify;font-family:times new roman"> 下降段:到达峰值应力点C后，混凝土的强度并不完全消失，随着应力<i>σ</i><sub>c</sub>的减小(卸载)，应变仍然增加，曲线下降坡度较陡，混凝土表面裂缝逐渐贯通。</p>
+ <p style="text-align:justify;font-family:times new roman"> 收敛段:在反弯点D之后，应力下降的速率减慢，曲线渐趋平缓至稳定的残余应力。表面纵向裂缝把混凝土棱柱体分成若干个小柱，外载力由裂缝处的摩擦咬合力及小柱体的残余强度承受。</p>
+ <p style="text-align:justify;font-family:times new roman"> 对于没有侧向约束的混凝土，收敛段没有实际意义，所以通常只注意混凝土轴心受压应力—应变曲线的上升段OC和下降段CD，而最大应力值<i>f</i><sub>c</sub>及相应的应变值<i>ε</i><sub>c0</sub> 以及D点的应变值(即极限压应变值<i>ε</i><sub>cu</sub>)称为曲线的三个特征值。对于均匀受压的棱柱体试件，当压应力达到<i>f</i><sub>c</sub>时，混凝土就不能承受更大的压力，成为结构构件计算时混凝土强度的主要指标。与<i>f</i><sub>c</sub>相对应的应变<i>ε</i><sub>c0</sub>随混凝土强度等级而异，在(1.5~2.5) ×10<sup>-3</sip> 之间变动，通常取其平均值<i>ε</i><sub>c0</sub> =2.0 ×10<sup>-3</sip> 。应力—应变曲线中相应于D点的混凝土极限压应变εcu为(3.0~5.0) ×10<sup>-3</sip> 。</p>
+ <p style="text-align:justify;font-family:times new roman"> 影响混凝土轴心受压应力—应变曲线的主要因素如下:</p>
+ <p style="text-align:justify;font-family:times new roman"> ①混凝土强度。试验表明，混凝土强度对其应力—应变曲线有一定影响，如<a href="#image1.11">图1-11</a>所示。对于上升段，混凝土强度的影响较小，但随着混凝土强度的增大，峰值点处的应变也稍大些，与应力峰值点相应的应变大致为0.002。对于下降段，混凝土强度则有较大影响，混凝土强度越高，应力—应变曲线下降越剧烈，延性就越差(延性是材料承受变形的能力)。</p>
+ <body>
+
+  <style type="text/css">
+      #image1.11{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.11" src="../_static/fig/1-11.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-11  强度等级不同的混凝土的应力—应变曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.11'));</script>
+
+  </body> 
+
+ <p style="text-align:justify;font-family:times new roman"> ②应变速率。应变速率小，峰值应力<i>f</i><sub>c</sub>降低，<i>ε</i><sub>c0</sub>增大，下降段曲线坡度显著地减缓。</p>
+ <p style="text-align:justify;font-family:times new roman"> ③测试技术和试验条件。应该采用等应变加载，如果采用等应力加载，则很难测得下降段曲线。试验机的刚度对下降段的影响很大，如果试验机的刚度不足，在加载过程中，积蓄在压力机内的应变能立即释放所产生的压缩量，当其大于试件可能产生的变形时，形成压力机的回弹对试件的冲击，使试件突然破坏，以致无法测出应力—应变曲线的下降段。应变量测的标距也有影响，应变量测的标距越大，曲线坡度越陡；标距越小，坡度越缓。试件端部的约束条件对应力—应变曲线下降段也有影响。例如，在试件与支承垫板间垫橡胶薄板并涂以油脂，则与正<a href="#image1.12">图1-12</a>混凝土变形模量的表示方法常条件情况相比，不仅强度降低，而且没有下降段。</p>
+ <p style="text-align:justify;font-family:times new roman"> (2)混凝土的变形模量与弹性模量</p>
+ <p style="text-align:justify;font-family:times new roman"> 在实际工程中，为了计算结构的变形，必须要有一个材料常数———弹性模量。而混凝土受压应力—应变关系是一条曲线，在不同的应力阶段，应力与应变的比值并非一个常数，随着混凝土的应力变化而变化，所以，相应地称之为混凝土变形模量。</p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.14"> [A1-1.14]</a><span id="idA1-1.14">  混凝土的变形模量有三种表示方法(<a href="#image1.12">图1-12</a>)。</span></p>
+ 
+  <body>
+
+  <style type="text/css">
+      #image1.12{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.12" src="../_static/fig/1-12.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-12  混凝土变形模量的表示方法</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.12'));</script>
+
+  </body> 
+ 
+ <p style="text-align:justify;font-family:times new roman"> ①原点弹性模量<br>在混凝土受压应力—应变曲线图的原点作切线，该切线的斜率即为原点弹性模量，即</p>
+
+$$E_{\\mathrm{c}}^{'}=\\dfrac{\\sigma }{\\varepsilon_{\\mathrm{ce}}}\\tag{1-3}$$
+
+.. raw:: html
+
+
+ <p style="text-align:justify;font-family:times new roman"> ②切线模量<br>在混凝土应力—应变曲线上某一应力<i>σ</i><sub>c</sub>处作一切线，该切线的斜率即为相应于应力<i>σ</i><sub>c</sub>时的切线模量，即</p>
+ 
+$$E_{\\mathrm{c}}^{''}=\\dfrac{\\mathrm{d}\\sigma }{\\mathrm{d}\\varepsilon}\\tag{1-4}$$
+
+.. raw:: html 
+ 
+ 
+ <p style="text-align:justify;font-family:times new roman"> ③割线模量<br>连接混凝土应力—应变曲线的原点O及曲线上某一点K 作割线，K点混凝土应力为<i>σ</i><sub>c</sub>(=0.5<i>f</i><sub>c</sub>)，则该割线(OK)的斜率即为变形模量，也称为割线模量或弹塑性模量，即</p>
+
+$$E_{\\mathrm{c}}^{'''}=\\tan a_1=\\dfrac{\\sigma_{\\mathrm{c}} }{\\varepsilon_{\\mathrm{c}}}\\tag{1-5}$$
+
+.. raw:: html
+
+
+ <p style="text-align:justify;font-family:times new roman">在某一应力<i>σ</i><sub>c</sub>下，混凝土应变<i>ε</i><sub>c</sub>由弹性应变<i>ε</i><sub>ce</sub>和塑性应变<i>ε</i><sub>cp</sub>组成，于是，混凝土的割线模量与原点弹性模量的关系为</p>
+
+$$E_{\\mathrm{c}}^{'''}=\\dfrac{\\sigma_{\\mathrm{c}} }{\\varepsilon_{\\mathrm{c}}}=\\dfrac{\\varepsilon_{\\mathrm{ce}}}{\\varepsilon_{\\mathrm{c}} }\\cdot\\dfrac{\\sigma_{\\mathrm{c}}}{\\varepsilon_{\\mathrm{ce}}}\\tag{1-6}$$
+
+.. raw:: html
+
+ <p style="text-align:justify;font-family:times new roman">式中的<i>v</i>为弹性特征系数，即<i>v</i>=<i>ε</i><sub>ce</sub>/<i>ε</i><sub>c</sub>。弹性特征系数<i>v</i>与应力值有关，当<i>σ</i><sub>c</sub>≤0.5<i>f</i><sub>c</sub>时，<i>v</i>≈0.8~0.9。一般情况下，混凝土强度越高，<i>v</i>值越大。</p>
+ <p style="text-align:justify;font-family:times new roman">注意到混凝土受压时应力—应变曲线的上升段(<a href="#image1.10">图1-10</a>)，特别是混凝土压应力不大时，应力—应变曲线接近直线。这时，混凝土的变形模量与原点弹性模量近似相等。因此，在混凝土结构使用阶段，混凝土变形模量可用混凝土原点弹性模量表示，称为混凝土弹性模量(用符号<i>E</i><sub>c</sub>表示)。</p>
+ <p style="text-align:justify;font-family:times new roman">目前我国《公路桥规》中给出的弹性模量<i>E</i><sub>c</sub>值是用下述方法测定的:试验采用棱柱体试件，取应力上限为<i>σ</i>=0.5<i>f</i><sub>c</sub>，然后卸荷至零，再重复加载卸荷5~10 次。由于混凝土的非弹性性质，每次卸荷至零时，变形不能完全恢复，存在残余变形。随着荷载重复次数的增加，残余变形逐渐减小，重复5~10 次后，变形已基本趋于稳定，应力—应变曲线接近于直线(<a href="#image1.13">图1-13</a>)，该直线的斜率即作为混凝土弹性模量的取值。因此，混凝土弹性模量是根据混凝土棱柱体标准试件，用标准的试验方法所测得的规定压应力值与其对应的压应变值的比值。</p>
+ 
+ <body>
+
+  <style type="text/css">
+      #image1.13{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.13" src="../_static/fig/1-13.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-13  测定混凝土弹性模量的方法</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.13'));</script>
+
+  </body>
+ 
+ 
+ <p style="text-align:justify;font-family:times new roman">根据不同等级混凝土弹性模量试验值的统计分析，给出<i>E</i><sub>c</sub>的经验公式为</p>
+
+$$E_{\\mathrm{c}}=\\dfrac{10^5}{2.2+(34.74/f_{\\mathrm{cu，k}})}\\tag{1-7}$$
+
+.. raw:: html
+
+ <p style="text-align:justify;font-family:times new roman">式中的<i>f</i><sub>cu，k</sub>为混凝土立方体抗压强度标准值，详见第2章2.4节。</p>
+ <p style="text-align:justify;font-family:times new roman">《公路桥规》给出的混凝土弹性模量值见附表1-2。<br>混凝土的受拉弹性模量，根据原水利水电科学研究院的试验资料，与受压弹性模量之比为0.82~1.12，平均为0.995，故可认为混凝土的受拉弹性模量与受压弹性模量相等。</p>
+ <p style="text-align:justify;font-family:times new roman">混凝土的剪切弹性模量<i>G</i><sub>c</sub>一般可根据试验测得的混凝土弹性模量<i>E</i><sub>c</sub>和泊松比按式(1-8)确定。</p>
+
+$$G_{\\mathrm{c}}=\\dfrac{E_{\\mathrm{c}}}{2(1+v_{\\mathrm{c}})}\\tag{1-8}$$
+
+.. raw:: html
+
+  <p style="text-align:justify;font-family:times new roman">式中的<i>v</i><sub>c</sub>为混凝土的横向变形系数(泊松比)，取<i>v</i><sub>c</sub>=0.2，代入式(1-8)，得到<i>G</i><sub>c</sub>=0.4<i>E</i><sub>c</sub>。</p>
+  <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.15"> [A1-1.15]</a><span id="idA1-1.15">  2)混凝土在长期荷载作用下的变形性能</span></p>
+  <p style="text-align:justify;font-family:times new roman"><b> 在荷载的长期作用下，混凝土的变形将随时间而增加，即在应力不变的情况下，混凝土的应变随时间持续增长，这种现象称为混凝土的徐变。</b>混凝土徐变变形是在持久作用下混凝土随时间推移而增加的应变。</p>
+  <p style="text-align:justify;font-family:times new roman"><b> <a href="#image1.14">图1-14</a>为100 mm×100 mm×400 mm的棱柱体试件在相对湿度为65%、温度为20℃、承受<i>σ</i><sub>c</sub>=0.5<i>f</i><sub>c</sub> 压应力并保持不变的情况下变形与时间的关系曲线。</p>
+
+   <body>
+
+  <style type="text/css">
+      #image1.14{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.14" src="../_static/fig/1-14.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-14  混凝土的徐变曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.14'));</script>
+
+  </body>
+  <p style="text-align:justify;font-family:times new roman"> 从<a href="#image1.14">图1-14</a>可见，24个月的徐变变形<i>ε</i><sub>cc</sub>为加荷时立即产生的瞬时弹性变形<i>ε</i><sub>ci</sub>的2~4 倍，前期徐变变形增长很快，6个月可达到最终徐变变形的70% ~ 80%，以后徐变变形增长逐渐缓慢。从<a href="#image1.14">图1-14</a>还可以看到，B点卸荷后，应变会恢复一部分，其中，立即恢复的一部分应变称为混凝土瞬时恢复弹性应变<i>ε</i><sub>cir</sub>；再经过一段时间(约20d)后才逐渐恢复的那部分应变称为弹性后效<i>ε</i><sub>chr</sub>；最后剩下的不可恢复的应变称为残余应变<i>ε</i><sub>cp</sub>。</p>
+  <p style="text-align:justify;font-family:times new roman"> 混凝土徐变是在荷载长期作用下，混凝土凝胶体中的水分逐渐压出，水泥石逐渐发生粘性流动，微细空隙逐渐闭合，结晶体内部逐渐滑动，微细裂缝逐渐发生等各种因素的综合结果。</p> 
+  <p style="text-align:justify;font-family:times new roman"> 在进行混凝土徐变试验时，需注意观测到的混凝土变形中还含有混凝土的收缩变形(见下节)，故需用同批浇筑同样尺寸的试件在同样环境下进行收缩试验。这样，从量测的徐变试验试件总变形中扣除对比的收缩试验试件的变形，便可得到混凝土的徐变变形。</p> 
+ 
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.16"> [A1-1.16]</a><span id="idA1-1.16"> (1)混凝土在长期荷载作用下产生的应力大小。<br><a href="#image1.15">图1-15</a>表明，当压应力<i>σ</i><sub>c</sub>≤0.5<i>f</i><sub>c</sub>时，徐变大致与应力成正比，各条徐变曲线的间距差不多是相等的，称为线性徐变。线性徐变在加荷初期增长很快，一般在两年左右趋于稳定，三年左右徐变基本终止。</span></p>
+ 
+   <body>
+
+  <style type="text/css">
+      #image1.15{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.15" src="../_static/fig/1-15.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-15  压应力与徐变的关系</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.15'));</script>
+
+  </body>
+ <p style="text-align:justify;font-family:times new roman"><b>当压应力<i>σ</i><sub>c</sub>介于(0.5 ~ 0.8)<i>f</i><sub>c</sub>之间时，徐变的增长较应力的增长为快，这种情况称为非线性徐变。</b><br>当压应力<i>σ</i><sub>c</sub>>0.8<i>f</i><sub>c</sub>时，混凝土的非线性徐变往往是不收敛的。</p>
+ 
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.17"> [A1-1.17]</a><span id="idA1-1.17">  (2)加荷时混凝土的龄期。加荷时混凝土龄期越短，则徐变越大(<a href="#image1.16">图1-16</a>)。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.18"> [A1-1.18]</a><span id="idA1-1.18">  (3)混凝土的组成成分和配合比。混凝土中集料本身没有徐变，但它的存在约束了水泥胶体的流动，约束作用大小取决于集料的刚度(弹性模量)和集料所占的体积比。当集料的弹性模量小于7×104 MPa时，随集料弹性模量的降低，徐变显著增大。集料的体积比越大，徐变越小。近年的试验表明，当集料含量由60% 增大为75% 时，徐变可减少50%。混凝土的水灰比越小，徐变也越小，在常用的水灰比范围内(0.4~0.6)，单位应力的徐变与水灰比呈近似直线关系。</span></p>
+
+  <body>
+
+  <style type="text/css">
+      #image1.16{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.16" src="../_static/fig/1-16.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-16  加荷时混凝土龄期对徐变大小的影响</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.16'));</script>
+
+  </body>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.19"> [A1-1.19]</a><span id="idA1-1.19">  (4)养护及使用条件下的温度与湿度。混凝土养护时温度越高，湿度越大，水泥水化作用就越充分，徐变就越小。混凝土的使用环境温度越高，徐变越大；环境的相对湿度越低，徐变也越大。因此，高温干燥环境将使徐变显著增大。</span></p>
+ <p style="text-align:justify;font-family:times new roman"> 当环境介质的温度和湿度保持不变时，混凝土内水分的逸失取决于构件的尺寸和体表比(构件体积与表面积之比)。构件的尺寸越大，体表比越大，徐变就越小(<a href="#image1.17">图1-17</a>)。</p>
+ <p style="text-align:justify;font-family:times new roman"> 应当注意混凝土的徐变与塑性变形不同。塑性变形主要是由混凝土中集料与水泥石结合面之间裂缝的扩展延伸引起的，只有当应力超过一定值(例如0.3<i>f</i><sub>c</sub>左右)才发生，而且是不可恢复的。混凝土徐变变形不仅可部分恢复，而且在较小的作用应力时就能发生。</p>
+
+  <body>
+
+  <style type="text/css">
+      #image1.17{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.17" src="../_static/fig/1-17.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-17  构件尺寸对徐变的影响</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.17'));</script>
+
+  </body>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.20"> [A1-1.20]</a><span id="idA1-1.20">  3)混凝土的收缩<br><b>在混凝土凝结和硬化的物理化学过程中体积随时间推移而减小的现象称为混凝土收缩。</b>混凝土在不受力情况下的这种自由变形，在受到外部或内部(钢筋)约束时，将产生混凝土拉应力，甚至使混凝土开裂。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.21"> [A1-1.21]</a><span id="idA1-1.21"> 混凝土的收缩是一种随时间而增长的变形(<a href="#image1.18">图1-18</a>)。结硬初期收缩变形发展很快，两周可完成全部收缩的25%，一个月可完成约50%，三个月后增长缓慢，一般两年后趋于稳定，最终收缩变形值为(2~6)×10<sup>-4</sup>。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.22"> [A1-1.22]</a><span id="idA1-1.22"> 引起混凝土收缩的原因，主要是硬化初期水泥石在水化凝固结硬过程中产生的体积变化，后期主要是混凝土内自由水分蒸发而引起的干缩。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.23"> [A1-1.23]</a><span id="idA1-1.23"> 混凝土的组成和配合比是影响混凝土收缩的重要因素。水泥的用量越多，水灰比越大，收缩就越大。集料的级配好、密度大、弹性模量高、粒径大，能减小混凝土的收缩。这是因为集料对水泥石的收缩有制约作用，粗集料所占体积比越大、强度越高，对收缩的制约作用就越大。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.24"> [A1-1.24]</a><span id="idA1-1.24"> 由于干燥失水是引起收缩的重要原因，所以构件的养护条件、使用环境的温度与湿度以及凡是影响混凝土中水分保持的因素，都对混凝土的收缩有影响。高温湿养(蒸汽养护)可加快水化作用，减少混凝土中的自由水分，因而可使收缩减少(<a href="#image1.18">图1-18</a>)。使用环境的温度越高，相对湿度越低，收缩就越大。</span></p>
+
+ <body>
+
+  <style type="text/css">
+      #image1.18{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.18" src="../_static/fig/1-18.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-18  混凝土的收缩变形与时间关系</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.18'));</script>
+
+  </body>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.25"> [A1-1.25]</a><span id="idA1-1.25"> 混凝土的最终收缩量还和构件的体表比有关，因为这个比值决定着混凝土中水分蒸发的速率。体表比较小的构件，如工字形、箱形薄壁构件，收缩量较大，而且发展也较快。</span></p>
+
+
+:math:`\ `    

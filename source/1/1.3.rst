@@ -5,12 +5,12 @@
 .. raw:: html
 
  <h3 id="test111"> 1.3 钢筋</h3>
- <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.13"> [A1-1.13]</a><span id="idA1-1.13"> 配筋混凝土结构中采用的钢筋有由低碳钢、低合金钢热轧所制成的普通钢筋和由高碳钢制成的预应力钢筋(例如高强度碳素钢丝、钢绞线等)。<br>钢筋混凝土结构采用的普通钢筋为热轧钢筋，本节介绍热轧钢筋的种类、牌号及其物理力学性能。预应力钢筋的种类及其物理力学性能将在第12章中介绍。</span></p>
- <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.1">1.3.1 </a><span id="id1.3.1"> 1.3.1热轧钢筋的种类 </span></p>
- <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.14"> [A1-1.14]</a><span id="idA1-1.14"> 热轧钢筋按照外形分为光圆钢筋和带肋钢筋(图1-19)。热轧光圆钢筋是经热轧成型并自然冷却的表面光滑、截面为圆形的钢筋。热轧带肋钢筋是经热轧成型并自然冷却而其圆周表面通常带有两条纵肋且沿长度方向有均匀分布横肋的钢筋，其中，横肋斜向一个方向而呈螺纹形的，称为螺纹钢筋[图1-19b)];横肋斜向不同方向而呈“人”字形的，称为人字形钢筋[图1-19c)];纵肋与横肋不相交且横肋为月牙形状的，称为月牙肋钢筋[图1-19d)]。</span></p>
- <p style="text-align:justify;font-family:times new roman"> 我国目前生产的热轧带肋钢筋大多为月牙肋钢筋，其横肋高度向肋的两端逐渐降至零，呈月牙形，这样可使横肋相交处的应力集中现象有所缓解。</p>
- <p style="text-align:justify;font-family:times new roman"> 由于热轧带肋钢筋截面包括纵肋和横肋，外周不是一个光滑连续的圆周，因此，热轧带肋钢筋直径采用公称直径。公称直径是与钢筋的公称横截面面积相等的圆的直径，即以公称直径所得的圆面积就是钢筋的截面面积。对于热轧光圆钢筋截面，其直径就是公称直径。在本书中，凡未加特别说明的“钢筋直径”均指钢筋公称直径。</p>
- <p style="text-align:justify;font-family:times new roman"> 我国国家标准推荐的热轧光圆钢筋公称直径为6 mm、8 mm、10 mm、12 mm、16 mm和20 mm，热轧带肋钢筋公称直径为6 mm、8 mm、10 mm、12 mm、16 mm、20 mm、25 mm、32 mm、40 mm和50 mm。</p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.26"> [A1-1.26]</a><span id="idA1-1.26"> 配筋混凝土结构中采用的钢筋有由低碳钢、低合金钢热轧所制成的普通钢筋和由高碳钢制成的预应力钢筋(例如高强度碳素钢丝、钢绞线等)。<br>钢筋混凝土结构采用的普通钢筋为热轧钢筋，本节介绍热轧钢筋的种类、牌号及其物理力学性能。预应力钢筋的种类及其物理力学性能将在第12章中介绍。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.1">1.3.1</a><span id="id1.3.1"> 热轧钢筋的种类 </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.27"> [A1-1.27]</a><span id="idA1-1.27"> 热轧钢筋按照外形分为光圆钢筋和带肋钢筋(<a href="#image1.19">图1-19</a>)。热轧光圆钢筋是经热轧成型并自然冷却的表面光滑、截面为圆形的钢筋。热轧带肋钢筋是经热轧成型并自然冷却而其圆周表面通常带有两条纵肋且沿长度方向有均匀分布横肋的钢筋，其中，横肋斜向一个方向而呈螺纹形的，称为螺纹钢筋[<a href="#image1.19">图1-19b)</a>];横肋斜向不同方向而呈“人”字形的，称为人字形钢筋[<a href="#image1.19">图1-19c)</a>];纵肋与横肋不相交且横肋为月牙形状的，称为月牙肋钢筋[<a href="#image1.19">图1-19d)</a>]。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.28"> [A1-1.27]</a><span id="idA1-1.28"> 我国目前生产的热轧带肋钢筋大多为月牙肋钢筋，其横肋高度向肋的两端逐渐降至零，呈月牙形，这样可使横肋相交处的应力集中现象有所缓解。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.29"> [A1-1.27]</a><span id="idA1-1.29">  由于热轧带肋钢筋截面包括纵肋和横肋，外周不是一个光滑连续的圆周，因此，热轧带肋钢筋直径采用公称直径。公称直径是与钢筋的公称横截面面积相等的圆的直径，即以公称直径所得的圆面积就是钢筋的截面面积。对于热轧光圆钢筋截面，其直径就是公称直径。在本书中，凡未加特别说明的“钢筋直径”均指钢筋公称直径。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.30"> [A1-1.27]</a><span id="idA1-1.30">  我国国家标准推荐的热轧光圆钢筋公称直径为6 mm、8 mm、10 mm、12 mm、16 mm和20 mm，热轧带肋钢筋公称直径为6 mm、8 mm、10 mm、12 mm、16 mm、20 mm、25 mm、32 mm、40 mm和50 mm。</span></p>
  
   <body>
 
@@ -28,6 +28,140 @@
 
   </body>
 
- <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.2">1.3.2 </a><span id="id1.3.2"> 1.3.2热轧钢筋的强度等级和牌号 </span></p>
- <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.15"> [A1-1.15]</a><span id="idA1-1.15"> 钢筋的牌号是根据钢筋屈服强度特征值、制造成型方式及种类等规定加以分类的代号。热轧钢筋的牌号由规定的英文字母缩写和钢筋屈服强度特征值组成。</span></p>
- <p style="text-align:justify;font-family:times new roman"> 对钢筋混凝土结构用热轧钢筋，我国国家标准规定产品的牌号及力学性能特征值见表1-1。</p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.2">1.3.2 </a><span id="id1.3.2"> 热轧钢筋的强度等级和牌号 </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.31"> [A1-1.31]</a><span id="idA1-1.31"> 钢筋的牌号是根据钢筋屈服强度特征值、制造成型方式及种类等规定加以分类的代号。热轧钢筋的牌号由规定的英文字母缩写和钢筋屈服强度特征值组成。</span></p>
+ <p style="text-align:justify;font-family:times new roman"> 对钢筋混凝土结构用热轧钢筋，我国国家标准规定产品的牌号及力学性能特征值见<a href="#B1.1">表1-1</a>。</p>
+
+ <style>
+      #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         vertical-align: middle;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+      <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B1.1">表1-1 国产热轧钢筋牌号及力学性能特征值</b></caption>	
+              
+		<tr>
+		<td width="70px"  align="center" id="dhbg">种类</td>
+        <td width="100px"  align="center" id="dhbg">牌号</td>
+        <td width="100px"  align="center" id="dhbg">公称直径<br>(mm)</td>
+        <td width="100px"  align="center" id="dhbg">屈服强度<br>(MPa)</td>
+        <td width="100px"  align="center" id="dhbg">抗拉强度<br>(MPa)</td> 
+        <td width="130px"  align="center" id="dhbg">断后伸长率<br>(%)</td>
+        <td width="300px"  align="center" id="dhbg">冷弯试验，180°<br>(D=弯心直径，d=钢筋直径)</td>          
+		</tr>
+ 		<tr>
+		<td align="center" id="dhbg">光圆钢筋</td>
+        <td align="center" id="dhbg">HPB300</td>
+        <td align="center" id="dhbg">6~22</td>
+        <td align="center" id="dhbg">300</td>
+        <td align="center" id="dhbg">420</td>
+        <td align="center" id="dhbg">10</td>
+        <td align="center" id="dhbg"><i>D</i>=<i>d</i></td>   
+		</tr>  
+        <tr>
+		<td align="center" rowspan="3" id="dhbg">带肋钢筋</td>
+        <td align="center" id="dhbg">HRB400<br>HRBF400<br>RRB400</td>
+        <td align="center" id="dhbg">6~50</td>
+        <td align="center" id="dhbg">400</td>
+        <td align="center" id="dhbg">540</td>
+        <td align="center" id="dhbg">16<br>16<br>14</td>
+        <td align="center" id="dhbg">当<i>d</i>=6~25 mm时，<i>D</i>=4<i>d</i><br>当<i>d</i>=28~40 mm时，<i>D</i>=5<i>d</i><br>当<i>d</i>>40 mm时，<i>D</i>=6<i>d</i></td>   
+		</tr> 
+       <tr>
+		<!-- <th></th> -->
+        <td align="center" id="dhbg">HRB500<br>HRBF500<br>RRB500</td>
+        <td align="center" id="dhbg">6~50</td>
+        <td align="center" id="dhbg">500</td>
+        <td align="center" id="dhbg">630</td>
+        <td align="center" id="dhbg">15<br>15<br>15</td>
+        <td align="center" rowspan="2" id="dhbg">当<i>d</i>=6~25 mm时，<i>D</i>=6<i>d</i><br>当<i>d</i>=28~40 mm时，<i>D</i>=7<i>d</i><br>当<i>d</i>>40 mm时，<i>D</i>=8<i>d</i></td>   
+		</tr> 
+       <tr>
+		<!-- <th></th> -->
+        <td align="center" id="dhbg">HRB600</td>
+        <td align="center" id="dhbg">6~50</td>
+        <td align="center" id="dhbg">600</td>
+        <td align="center" id="dhbg">730</td>
+        <td align="center" id="dhbg">14</td>
+       <!-- <th></th> -->   
+		</tr> 
+
+
+        </table>
+
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.32"> [A1-1.32]</a><span id="idA1-1.32"> <a href="#B1.1">表1-1</a>中热轧钢筋牌号HPB是热轧光圆钢筋的英文(Hot rolled Plain Bars) 缩写；HRB是普通热轧带肋钢筋的英文(Hot rolled Ribbed Bars)缩写；HRBF是在普通热轧带肋钢筋的英文缩写后加“细”的英文(Fine)首位字母，表示为细晶粒热轧带肋钢筋(在热轧过程中，通过控轧和控冷工艺形成的细晶粒钢筋)；RRB是余热处理带肋钢筋(热轧后利用热处理原理进行表面控制冷却，并利用芯部余热完成回火处理得到的钢筋)的英文缩写。同时，国产热轧钢筋按其屈服强度特征值的高低分为4个强度等级:300 MPa、400 MPa、500 MPa和600 MPa，因此表1-1中HPB300 表示屈服强度特征值为300MPa 的热轧光圆钢筋，HRB500 表示屈服强度特征值为500 MPa的普通热轧带肋钢筋。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.33"> [A1-1.33]</a><span id="idA1-1.33"> 《公路桥规》规定，公路桥梁钢筋混凝土结构使用的热轧钢筋牌号为HPB300、HRB400、HRBF400、RRB400 和HRB500。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.34"> [A1-1.34]</a><span id="idA1-1.34"> 当钢筋混凝土构件处于受侵蚀物质等影响的环境中时，有可能使热轧钢筋加速腐蚀。当结构的耐久性确实受到严重威胁时，《公路桥规》建议可以采用环氧树脂涂层钢筋。环氧树脂涂层钢筋是热轧钢筋表面为熔融结合环氧涂层的钢筋。在钢筋表面形成的连续环氧树脂涂层薄膜呈绝对惰性，可以完全阻隔钢筋受到大气、水中侵蚀物质的腐蚀。根据国家建筑工业行业标准《环氧树脂涂层钢筋》(JG/T 502—2016)的规定，环氧树脂涂层钢筋产品型号的名称代号为ECR，例如，用直径为20 mm、牌号为HRB400的普通热轧带肋钢筋制作的可再加工类环氧树脂涂层钢筋，其产品型号表示为ECRA∙HRB400-20(E)，其中符号A表示钢筋为可再加工类，符号E表示涂层类别。</span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.3">1.3.3 </a><span id="id1.3.3"> 热轧钢筋的强度与变形 </span></p>
+ <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.35"> [A1-1.35]</a><span id="idA1-1.35"> 热轧钢筋试件单向拉伸试验的典型应力—应变曲线见<a href="#image1.20">图1-20</a>。</span></p>
+ 
+ <body>
+
+  <style type="text/css">
+      #image1.20{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.20" src="../_static/fig/1-20.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-20  有明显流幅的钢筋应力—应变曲线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.20'));</script>
+
+  </body>
+  <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.36"> [A1-1.36]</a><span id="idA1-1.36"> 由<a href="#image1.20">图1-20</a>可以看到，热轧钢筋从试验加载到拉断，共经历了4个阶段。从开始加载到钢筋应力达到钢筋比例极限a点之前，钢筋拉伸的应力—应变曲线呈直线，钢筋的应力与应变比值为常数，钢筋处于弹性阶段；钢筋受拉的应力超过比例极限之后，应变的增长快于应力增长，到达<a href="#image1.20">图1-20</a>所示的b点后，钢筋的应力基本不再增加而应变持续增加，应力—应变曲线接近水平线，钢筋处于屈服阶段。对于有屈服台阶的热轧钢筋来讲，有两个屈服点，即屈服上限(b点)和屈服下限(c点)。屈服上限受试验加载速度、表面光洁度等因素的影响而波动，而屈服下限较稳定，故一般以屈服下限为依据，称为下屈服强度。钢筋的拉伸应力超过<a href="#image1.20">图1-20</a>所示的f点之后，材料恢复了部分弹性性能，应力—应变曲线表现为上升曲线，到达曲线最高点d，d点的钢筋应力称为钢筋的抗拉强度，fd段称为钢筋的强化阶段。过了<a href="#image1.20">图1-20</a>所示应力—应变曲线的d点后，钢筋试件薄弱处的截面发生</span></p>
+  <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.37"> [A1-1.37]</a><span id="idA1-1.37"> 因此，从工程结构设计角度来看，应当注意有关热轧钢筋强度的以下情况:</span></p>
+  <p style="text-align:justify;font-family:times new roman"> (1)热轧钢筋的拉伸应力—应变曲线有明显的屈服点和流幅，断裂时有颈缩现象。<br>(2)热轧钢筋的应力到达屈服点后，会产生很大的塑性变形(流幅)，使钢筋混凝土构件出现很大的变形和过宽的混凝土裂缝，以致不能正常使用。因此，应以屈服强度作为钢筋强度限值，且按其屈服下限确定。<br>(3)钢筋抗拉强度是钢筋的实际破坏强度。钢筋屈服强度与抗拉强度的比值称为屈强比，它可以代表钢筋的强度储备。国家标准规定热轧钢筋的屈强比不应大于0.8。</p>
+  <p style="text-align:justify;font-family:times new roman"><a href="#id1.3.4">1.3.4 </a><span id="id1.3.4"> 热轧钢筋的塑性性能</span></p>
+  <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.38"> [A1-1.38]</a><span id="idA1-1.38"> 热轧钢筋除应具有足够的强度外，还应具有一定的塑性变形能力，通常用伸长率和冷弯性能两个指标来衡量。</span></p>
+  <p style="text-align:justify;font-family:times new roman"> 1)伸长率<br>伸长率是指由热轧钢筋单向拉伸试验得到的伸长率值。钢筋断后伸长率是指钢筋试件上标距为10d或5d(d为钢筋公称直径)范围内的伸长值与原长的比率，伸长率即为<a href="#image1.20">图1-20</a>所示钢筋应力—应变曲线中e点的横坐标值。</p>
+  <p style="text-align:justify;font-family:times new roman"> 2)冷弯性能<br>工程上钢筋在工地现场进行冷加工，形成满足设计要求的各种形状的钢筋，基本形式是钢筋的弯钩和弯折(<a href="#image1.21">图1-21</a>)。</p>
+
+ <body>
+
+  <style type="text/css">
+      #image1.21{
+         margin-left:50px;
+      }
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="../_static/viewer.min.css"/>
+  <script src="../_static/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+  <div style="text-align:center;"><img id="image1.21" src="../_static/fig/1-21.jpg" alt="Picture"></div>
+  <p style="color: dimgray;text-align: center;font-family:times new roman">图1-21  钢筋的弯钩与弯折示意图(尺寸单位:mm)</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('image1.21'));</script>
+
+  </body> 
+    
+
+
+  <p style="text-align:justify;font-family:times new roman"><a href="#idA1-1.38"> [A1-1.38]</a><span id="idA1-1.38"> 为了使钢筋在加工、使用时不开裂、弯断或脆断，钢筋必须满足冷弯性能要求。一般采用冷弯试验进行检查，即按 <a href="#B1.1">表1-1</a>规定条件取钢筋试件，绕弯心直径为D的辊轴冷弯后，钢筋外表面不产生裂纹、鳞落或断裂现象为合格。</span></p>
+
+ 
+
+
+
+
+
+
